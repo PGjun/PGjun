@@ -13,15 +13,6 @@
 
 ---
 
-## 🎯 Focus & Interests
-
-- 💻 실시간 웹소켓 기반 거래 시스템 개발
-- ⚙️ Jenkins + Docker로 배포 자동화
-- 🎯 사용자 중심 DX 설계 & 커스텀 훅 구조화
-- 🧪 사이드로는 고양이 키우며 게임도 만드는 중
-
----
-
 ## 🌐 Contact
 
 <p align="center">
