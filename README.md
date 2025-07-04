@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F38BA8&center=true&vCenter=true&width=500&height=30&lines=Engineer+%7C+Automator+%7C+Tinker+%7C+Frontend+Dev" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
 </p>
 
 ---
