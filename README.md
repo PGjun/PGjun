@@ -19,8 +19,8 @@
   <a href="mailto:pgj127@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pgj127@gmail.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://velog.io/@gyoungjun" target="_blank">
+<!--   <a href="https://velog.io/@gyoungjun" target="_blank">
     <img src="https://img.shields.io/badge/Velog-Blog-20c997?style=flat&logo=velog" />
-  </a>
+  </a> -->
 </p>
 
