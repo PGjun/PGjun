@@ -46,9 +46,8 @@
 
 ---
 
-<!-- 배경 애니메이션 (GIF 또는 3D) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F38BA8&center=true&vCenter=true&width=500&height=30&lines=Engineer+%7C+Automator+%7C+Tinker+%7C+Frontend+Dev" />
 </p>
 
 ---
