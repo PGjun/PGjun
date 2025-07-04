@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Frontend%20Engineer&height=200&fontSize=40&fontAlignY=40" />
 </p>
 
-<h2 align="center">Hi 👋 I'm a Frontend Developer who loves building smooth web experiences</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=React+%7C+Next.js+%7C+WebSocket+%7C+AWS;실시간+거래소%2C+배포+자동화%2C+DX+지향형+구조+설계" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
