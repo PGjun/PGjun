@@ -39,8 +39,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyoungjun&theme=flat&margin-w=10&no-bg=true&no-frame=true" />
-</p>
