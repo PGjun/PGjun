@@ -1,43 +1,46 @@
-<h2 align="center">안녕하세요 👋 웹을 더 똑똑하게 만드는 개발자입니다</h2>
-
+<!-- 헤더: 웨이브 + 소개 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend%20Engineer&fontSize=40&fontAlign=70&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Frontend%20Engineer&height=200&fontSize=40&fontAlignY=40" />
 </p>
 
-## 🚀 About
-
-- 🛠 실시간 거래소, 자동화 배포 등 **실전 중심의 프론트엔드 개발** 경험
-- ⚙️ WebSocket, Jenkins, AWS 등 **인프라-프론트 연계** 경험 보유
-- 🧠 사용자 경험을 최우선으로 두는 **문제해결형 개발자**
-
----
-
-## 🧩 Tech Stack
-
-**Frontend**  
-React · Next.js · TypeScript  
-Zustand · React Query · TailwindCSS  
-
-**Infra / Tools**  
-WebSocket · Node.js  
-Docker · Jenkins · AWS (EC2 · CloudWatch · S3 · CloudFront)  
-Notion · Slack · Cursor
-
----
-
-## 💡 Recent Focus
-
-- 📈 실시간 시스템 안정화 (체결·호가·자산 변동 처리)
-- 🧪 DX 개선을 위한 구조화된 컴포넌트 & 커스텀 훅 설계
-- 🐳 Jenkins + Docker 기반 배포 자동화
-
----
-
-## 📫 Contact
-
-- Email: pgj127@gmail.com
-- Blog: https://velog.io/@gyoungjun
+<h2 align="center">Hi 👋 I'm a Frontend Developer who loves building smooth web experiences</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyoungjun&theme=default" alt="streak"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=React+%7C+Next.js+%7C+WebSocket+%7C+AWS;실시간+거래소%2C+배포+자동화%2C+DX+지향형+구조+설계" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,websocket,docker,jenkins,aws,vscode" />
+</p>
+
+---
+
+## 🎯 Focus & Interests
+
+- 💻 실시간 웹소켓 기반 거래 시스템 개발
+- ⚙️ Jenkins + Docker로 배포 자동화
+- 🎯 사용자 중심 DX 설계 & 커스텀 훅 구조화
+- 🧪 사이드로는 고양이 키우며 게임도 만드는 중
+
+---
+
+## 🌐 Contact
+
+<p align="center">
+  <a href="mailto:pgj127@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pgj127@gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://velog.io/@gyoungjun" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-Blog-20c997?style=flat&logo=velog" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gyoungjun&theme=flat&margin-w=10&no-bg=true&no-frame=true" />
 </p>
