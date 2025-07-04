@@ -9,47 +9,23 @@
 
 ---
 
-<!-- 스택 아이콘 -->
-<h3 align="center">⚙️ Tech Stack</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://websockets.spec.whatwg.org/" target="_blank">
-    <img src="https://img.shields.io/badge/WebSocket-%20-4aa55f?style=flat-square&logo=websocket&logoColor=white" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jenkins" />
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-4aa55f?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-333333?style=for-the-badge&logoColor=white" />
 </p>
 
----
-
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/main/assets/Night-Coding.gif" width="600" />
 </p>
 
 
@@ -60,8 +36,5 @@
 <p align="center">
   <a href="mailto:pgj127@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pgj127@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@gyoungjun" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-Blog-20c997?style=flat-square&logo=velog" />
   </a>
 </p>
